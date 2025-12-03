@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD in Control Science and Engineering in the State Key Laboratory of Synthetical Automation for Process Industries (SAPI), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
+I am currently a PhD in Control Science and Engineering in the [State Key Laboratory of Synthetical Automation for Process Industries (SAPI)](http://www.sapi.neu.edu.cn/), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
 Selected Publications
 
 
@@ -18,7 +18,7 @@ Selected Publications
 
 DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution[J]
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2025, Accepted
-Linrui Shi, Gaochang Wu*, [Yingqian Wang]([https://pages.github.com], Yebin Liu, Tianyou Chai
+Linrui Shi, Gaochang Wu*, [Yingqian Wang](https://pages.github.com), Yebin Liu, Tianyou Chai
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
