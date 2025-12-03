@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Linrui Shi/ 石林瑞 "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a PhD in Control Science and Engineering in the State Key Laboratory of Synthetical Automation for Process Industries (SAPI), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
 Selected Publications
+
+A data-driven personal website
 ======
 
 
