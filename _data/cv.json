@@ -70,10 +70,9 @@
       "courses": []
     }
   ],
-  "skills": [* Senior High School Mathematics Teacher Qualification Certificate
-             * Tour Guide Qualification Certificate],
-  "languages": [Chinese, English, German],
-  "interests": [Multimodal learning, image super-resolution, and diffusion models],
+  "skills":  "Senior High School Mathematics Teacher Qualification Certificate, Tour Guide Qualification Certificate]",
+  "languages": "Chinese, English, German",
+  "interests": "Multimodal learning, image super-resolution, and diffusion models",
   "publications": [
     {
       "name": "W-Net Based Segmentation for Remote Sensing Satellite Image of High Resolution",
