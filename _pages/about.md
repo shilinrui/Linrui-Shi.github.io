@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Linrui Shi/ 石林瑞 "
+title: "Linrui Shi/石林瑞 "
+excerpt: "Linrui Shi/石林瑞 "
 author_profile: true
 redirect_from: 
   - /about/
