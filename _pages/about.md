@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 I am currently a PhD in Control Science and Engineering in the [State Key Laboratory of Synthetical Automation for Process Industries (SAPI)](http://www.sapi.neu.edu.cn/), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
+
+石林瑞，目前在东北大学，流程工业综合自动化全国重点实验室（SAPI）攻读博士学位。于2019年获得山西师范大学，数学与应用数学学士学位，并于2022年获得华东交通大学，数学硕士学位。研究兴趣包括多模态学习、图像超分辨率和扩散模型。
+
 Selected Publications
 
 
