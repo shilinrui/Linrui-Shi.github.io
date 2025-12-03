@@ -12,8 +12,6 @@ I am currently a PhD in Control Science and Engineering in the [State Key Labora
 
 石林瑞，目前在东北大学，流程工业综合自动化全国重点实验室（SAPI）攻读博士学位。于2019年获得山西师范大学，数学与应用数学学士学位，并于2022年获得华东交通大学，数学硕士学位。研究兴趣包括多模态学习、图像超分辨率和扩散模型。
 
-Selected Publications
-
 
 Selected Publications
 ======
