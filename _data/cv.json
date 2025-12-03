@@ -1,61 +1,71 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Linrui Shi",
+    "email": "2210343@stu.neu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://shilinrui.github.io/Linrui-Shi.github.io/",
+    "summary": "PhD from Northeastern University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "ShenYang",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0001-6494-3604"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "shilinrui",
+        "url": "https://github.com/shilinrui"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "",
+      "area": "Ph.D in University of Surrey",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025.05",
+      "endDate": "2025.11",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "",
+      "area": "Ph.D in the State Key Laboratory of Synthetical Automation for Process Industries, Northeastern University",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022.09",
+      "endDate": "Now",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "",
+      "area": "M.S. in East China Jiaotong University",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019.09",
+      "endDate": "2022.07",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+    {
+      "institution": "",
+      "area": "B.S. in Shanxi Normal University",
+      "studyType": "",
+      "startDate": "2015.09",
+      "endDate": "2019.07",
       "gpa": null,
       "courses": []
     }
