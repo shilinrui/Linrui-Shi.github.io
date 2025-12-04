@@ -67,7 +67,8 @@
       "endDate": "2019.07",
       "gpa": null,
       "courses": []
-    },
+    }
+  ],
   "skills":  "Senior High School Mathematics Teacher Qualification Certificate, Tour Guide Qualification Certificate]",
   "languages": "Chinese, English, German",
   "interests": "Multimodal learning, image super-resolution, and diffusion models",
@@ -149,6 +150,6 @@
       "website": "",
       "authors": "Linrui Shi, Gaochang Wu*, Yingqian Wang, Yebin Liu, Tianyou Chai"
     }
-
+  ]
 
 }
