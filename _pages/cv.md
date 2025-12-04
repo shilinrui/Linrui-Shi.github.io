@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in University of Surrey, 2025.05-2025.11
-* Ph.D in the State Key Laboratory of Synthetical Automation for Process Industries, Northeastern University, 2022.09-Now
+* Ph.D in Northeastern University, 2022.09-Present
 * M.S. in East China Jiaotong University, 2019.09-2022.07
 * B.S. in Shanxi Normal University, 2015.09-2019.07
 
