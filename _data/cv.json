@@ -5,22 +5,13 @@
     "website": "https://shilinrui.github.io/Linrui-Shi.github.io/",
     "school": "Northeastern University",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "ShenYang, China",
-      "countryCode": "",
-      "region": ""
+      "city": "ShenYang, China"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com"
-      },
-      {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/my-orcid?orcid=0000-0001-6494-3604"
+        "username": "Linrui Shi",
+        "url": "https://orcid.org/0000-0001-6494-3604"
       },
       {
         "network": "GitHub",
@@ -34,38 +25,27 @@
     {
       "institution": "",
       "area": "Ph.D in University of Surrey",
-      "studyType": "",
       "startDate": "2025.05",
-      "endDate": "2025.11",
-      "gpa": null,
-      "courses": []
+      "endDate": "2025.11"
     },
     {
       "institution": "",
       "area": "Ph.D in Northeastern University",
-      "studyType": "",
+      "studyType": "Control Science and Engineering",
       "startDate": "2022.09",
-      "endDate": "Now",
-      "gpa": null,
-      "courses": []
-    },
+      "endDate": "2022.09-Present"
     {
       "institution": "",
       "area": "M.S. in East China Jiaotong University",
-      "studyType": "",
+      "studyType": "Mathematics",
       "startDate": "2019.09",
-      "endDate": "2022.07",
-      "gpa": null,
-      "courses": []
-    },
+      "endDate": "2022.07"
     {
       "institution": "",
       "area": "B.S. in Shanxi Normal University",
-      "studyType": "",
+      "studyType": "Mathematics and Applied Mathematics",
       "startDate": "2015.09",
-      "endDate": "2019.07",
-      "gpa": null,
-      "courses": []
+      "endDate": "2019.07"
     }
   ],
   "skills":  "Senior High School Mathematics Teacher Qualification Certificate, Tour Guide Qualification Certificate]",
