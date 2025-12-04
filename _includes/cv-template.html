@@ -98,7 +98,7 @@
   
   
   
-  {% if cv.skills.size > 0 %}
+  <!-- {% if cv.skills.size > 0 %}
   <!-- Skills -->
   <div class="cv-section">
     <h2>Skills</h2>
@@ -115,7 +115,18 @@
       {% endfor %}
     </div>
   </div>
-  {% endif %}
+  {% endif %} -->
+
+  {% if cv.skills.size > 0 %}
+  <div class="cv-section">
+    <h2>Skills</h2>
+    <ul class="cv-skill-list">
+      {% for skill_item in cv.skills %}
+        <li>{{ skill_item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
   
   {% if cv.publications.size > 0 %}
   <!-- Publications -->
