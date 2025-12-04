@@ -2,14 +2,13 @@
   "basics": {
     "name": "Linrui Shi",
     "email": "2210343@stu.neu.edu.cn",
-    "phone": "",
     "website": "https://shilinrui.github.io/Linrui-Shi.github.io/",
-    "summary": "PhD from Northeastern University",
+    "school": "Northeastern University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "ShenYang",
-      "countryCode": "China",
+      "city": "ShenYang, China",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
