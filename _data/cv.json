@@ -58,9 +58,8 @@
       "endDate": "2022.07",
       "gpa": null,
       "courses": []
-    }
-  ],
-  {
+    },
+    {
       "institution": "",
       "area": "B.S. in Shanxi Normal University",
       "studyType": "",
@@ -68,8 +67,7 @@
       "endDate": "2019.07",
       "gpa": null,
       "courses": []
-    }
-  ],
+    },
   "skills":  "Senior High School Mathematics Teacher Qualification Certificate, Tour Guide Qualification Certificate]",
   "languages": "Chinese, English, German",
   "interests": "Multimodal learning, image super-resolution, and diffusion models",
