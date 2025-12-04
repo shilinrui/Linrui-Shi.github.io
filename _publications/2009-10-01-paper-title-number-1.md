@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+date: 2020-10-01
 venue: 'Journal of South China University of Technology'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://zrb.bjb.scut.edu.cn/EN/10.12141/j.issn.1000-565X.200365'
