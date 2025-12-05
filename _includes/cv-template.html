@@ -108,29 +108,6 @@
 {% endif %}
 
   
-
-  {% if cv.skills.size > 0 %}
-  <div class="cv-section">
-    <h2>Skills</h2>
-    <ul class="cv-skill-list">
-      {% for skill_item in cv.skills %}
-        <li>{{ skill_item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-
- {% if cv.languages.size > 0 %}
-  <div class="cv-section">
-    <h2>Languages</h2>
-    <ul class="cv-language-list">
-      {% for language_item in cv.languages %}
-        <li>{{ language_item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-  
  {% if cv.interests.size > 0 %}
   <div class="cv-section">
     <h2>Interests</h2>
@@ -212,37 +189,35 @@
   </div>
 {% endif %}
 
-
-
-
-
-  
-  {% if cv.presentations.size > 0 %}
-  <!-- Presentations/Talks -->
+  {% if cv.skills.size > 0 %}
   <div class="cv-section">
-    <h2>Presentations</h2>
-    <ul class="cv-list">
-      {% for talk in cv.presentations %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ talk.name }}</div>
-          <div class="cv-item-date">{{ talk.date | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ talk.event }}</div>
-          {% if talk.location %}
-          <div class="cv-item-detail">{{ talk.location }}</div>
-          {% endif %}
-          {% if talk.description %}
-          <div class="cv-item-detail">{{ talk.description }}</div>
-          {% endif %}
-        </div>
-      </li>
+    <h2>Skills</h2>
+    <ul class="cv-skill-list">
+      {% for skill_item in cv.skills %}
+        <li>{{ skill_item }}</li>
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
-  
+{% endif %}
 
+ {% if cv.languages.size > 0 %}
+  <div class="cv-section">
+    <h2>Languages</h2>
+    <ul class="cv-language-list">
+      {% for language_item in cv.languages %}
+        <li>{{ language_item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
 
-<!-- </div> -->
+ {% if cv.awards.size > 0 %}
+  <div class="cv-section">
+    <h2>Awards</h2>
+    <ul class="cv-award-list">
+      {% for award_item in cv.awards %}
+        <li>{{ award_item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
