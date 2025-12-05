@@ -26,7 +26,7 @@
       "institution": "",
       "area": "Ph.D in University of Surrey",
       "endDate": "2025.05-2025.11",
-       "logo": "/assets/images/logos/Surrey.png"
+       "logo": "./images/logos/Surrey.png"
     },
     {
       "institution": "",
