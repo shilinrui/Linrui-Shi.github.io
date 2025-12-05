@@ -131,26 +131,19 @@
 {% endif %}
   
 {% if cv.publications.size > 0 %}
-  <div class="cv-publication-section">
+  <!-- Publications -->
+  <div class="cv-section">
     <h2>Publications</h2>
-    <ul class="cv-publication-list">
+    <ul class="cv-list">
       {% for publication in cv.publications %}
-        <li class="cv-item" style="display: flex; gap: 16px;">
-          {% if publication.image %}
-            <div class="cv-item-image" style="flex: 0 0 120px;">
-              <img src="{{ DuaDiff.image }}" alt="paper image" style="width: 120px; border-radius: 6px;">
-            </div>
-          {% endif %}
-          {% endfor %}
-
-          
+      <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title" >{{ publication.name }}</div>
+          <div class="cv-item-title" style="color: orange;">{{ publication.name }}</div>
           <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
         </div>
 
         <div class="cv-item-content">
-          <div class="cv-item-subtitle" style="color: #007ACC;">{{ publication.publisher }}</div>
+          <div class="cv-item-subtitle">{{ publication.publisher }}</div>
 
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
@@ -170,27 +163,25 @@
           </div>
           {% endif %}
 
-          {% if publication.website or publication.codewebsite %}
+          {% if publication.website %}
           <div class="cv-item-detail">
-            
-            {% if publication.website %}
-              <a href="{{ publication.website }}" target="_blank">[Paper]</a>
-            {% endif %}
-          
-            {% if publication.codewebsite %}
-              &nbsp;&nbsp;
-              <a href="{{ publication.codewebsite }}" target="_blank">[Project Page]</a>
-            {% endif %}
-          
+            <a href="{{ publication.website }}" target="_blank">[Paper]</a>
+          </div>
+          {% endif %}
+
+          {% if publication.codewebsite %}
+          <div class="cv-item-detail">
+            <a href="{{ publication.codewebsite }}" target="_blank">[Project Page]</a>
           </div>
           {% endif %}
         </div>
 
       </li>
-   
+      {% endfor %}
     </ul>
   </div>
 {% endif %}
+
 
 
 
