@@ -131,11 +131,10 @@
 {% endif %}
   
 {% if cv.publications.size > 0 %}
-  <!-- Publications -->
-  <div class="cv-section">
+  <div class="cv-publication-section">
     <h2>Publications</h2>
-    <ul class="cv-list">
-      {% for publication in cv.publications %}
+    <ul class="cv-publication-list">
+      {% for publication_item in cv.publications %}
         <li class="cv-item" style="display: flex; gap: 16px;">
           {% if publication.image %}
             <div class="cv-item-image" style="flex: 0 0 120px;">
