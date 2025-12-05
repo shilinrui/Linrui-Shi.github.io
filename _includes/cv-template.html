@@ -96,26 +96,6 @@
   </div>
   {% endif %}
   
-  
-  
-  <!-- {% if cv.skills.size > 0 %}
-  <!-- Skills -->
-  <div class="cv-section">
-    <h2>Skills</h2>
-    <div class="cv-skills">
-      {% for skill in cv.skills %}
-      <div class="cv-skill-category">
-        <h3>{{ skill.name }}</h3>
-        <ul class="cv-skill-list">
-          {% for keyword in skill.keywords %}
-          <li>{{ keyword }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %} -->
 
   {% if cv.skills.size > 0 %}
   <div class="cv-section">
@@ -130,10 +110,10 @@
 
  {% if cv.languages.size > 0 %}
   <div class="cv-section">
-    <h2>Skills</h2>
-    <ul class="cv-skill-list">
-      {% for skill_item in cv.skills %}
-        <li>{{ skill_item }}</li>
+    <h2>Languages</h2>
+    <ul class="cv-language-list">
+      {% for language_item in cv.languages %}
+        <li>{{ language_item }}</li>
       {% endfor %}
     </ul>
   </div>
@@ -141,10 +121,10 @@
   
  {% if cv.interests.size > 0 %}
   <div class="cv-section">
-    <h2>Skills</h2>
-    <ul class="cv-skill-list">
-      {% for skill_item in cv.skills %}
-        <li>{{ skill_item }}</li>
+    <h2>Interests</h2>
+    <ul class="cv-interest-list">
+      {% for interest_item in cv.interests %}
+        <li>{{ interest_item }}</li>
       {% endfor %}
     </ul>
   </div>
