@@ -143,7 +143,7 @@
         </div>
 
         <div class="cv-item-content">
-          <div class="cv-item-subtitle"style="color: orange;">{{ publication.publisher }}</div>
+          <div class="cv-item-subtitle" style="color: orange;">{{ publication.publisher }}</div>
 
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
@@ -163,7 +163,22 @@
           </div>
           {% endif %}
 
-          {% if publication.website %}
+          {% if publication.website or publication.codewebsite %}
+          <div class="cv-item-detail">
+            
+            {% if publication.website %}
+              <a href="{{ publication.website }}" target="_blank">[Paper]</a>
+            {% endif %}
+          
+            {% if publication.codewebsite %}
+              &nbsp;&nbsp;
+              <a href="{{ publication.codewebsite }}" target="_blank">[Project Page]</a>
+            {% endif %}
+          
+          </div>
+          {% endif %}
+
+          <!-- {% if publication.website %}
           <div class="cv-item-detail">
             <a href="{{ publication.website }}" target="_blank">[Paper]</a>
           <!-- </div> -->
@@ -176,8 +191,8 @@
           {% endif %}
         </div>
 
-      </li>
-      {% endfor %}
+      <!-- </li> -->
+      {% endfor %} -->
     </ul>
   </div>
 {% endif %}
