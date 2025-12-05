@@ -15,7 +15,7 @@
   }
 </style>
 
-<div class="cv-container">
+<!-- <div class="cv-container">
   <!-- Basic Information -->
   <div class="cv-section cv-header">
   <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -78,7 +78,85 @@
     <h2>Summary</h2>
     <p>{{ cv.basics.summary }}</p>
   </div>
-  {% endif %}
+  {% endif %} -->
+    <div class="cv-container">
+
+  <!-- Basic Information -->
+  <div class="cv-section cv-header">
+
+    <!-- 大的横向布局：左边文字 + 右边头像 -->
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;"> 
+
+      <!-- 左侧：姓名 + 联系方式 -->
+      <div style="flex: 1;">
+
+        <!-- 姓名 -->
+        <h1>{{ cv.basics.name }}</h1>
+
+        {% if cv.basics.label %}
+        <h2>{{ cv.basics.label }}</h2>
+        {% endif %}
+
+        <!-- 联系方式 -->
+        <div class="cv-contact">
+          {% if cv.basics.email %}
+          <div class="cv-contact-item">
+            <i class="fas fa-envelope"></i> {{ cv.basics.email }}
+          </div>
+          {% endif %}
+
+          {% if cv.basics.phone %}
+          <div class="cv-contact-item">
+            <i class="fas fa-phone"></i> {{ cv.basics.phone }}
+          </div>
+          {% endif %}
+
+          {% if cv.basics.website %}
+          <div class="cv-contact-item">
+            <i class="fas fa-globe"></i>
+            <a href="{{ cv.basics.website }}" target="_blank">{{ cv.basics.website }}</a>
+          </div>
+          {% endif %}
+
+          {% if cv.basics.location.city %}
+          <div class="cv-contact-item">
+            <i class="fas fa-map-marker-alt"></i>
+            {{ cv.basics.location.city }}
+            {% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}
+            {% if cv.basics.location.countryCode %}, {{ cv.basics.location.countryCode }}{% endif %}
+          </div>
+          {% endif %}
+        </div>
+
+        <!-- Profiles -->
+        {% if cv.basics.profiles.size > 0 %}
+        <div class="cv-profiles">
+          {% for profile in cv.basics.profiles %}
+          <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
+            <i class="fab fa-{{ profile.network | downcase }}"></i> {{ profile.network }}
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+
+      </div> <!-- 左侧区域结束 -->
+
+
+      <!-- 右侧：头像 -->
+      {% if cv.basics.image %}
+      <div style="flex: 0 0 150px; text-align: right;">
+        <img src="{{ cv.basics.image }}" 
+             alt="profile photo"
+             style="width: 150px; height: 150px; border-radius: 8px; object-fit: cover;">
+      </div>
+      {% endif %}
+
+    </div> <!-- flex 布局结束 -->
+
+  </div> <!-- header section 结束 -->
+
+</div> <!-- container 结束 -->
+
   
 {% if cv.education.size > 0 %}
 <div class="cv-section">
