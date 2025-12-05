@@ -25,25 +25,29 @@
     {
       "institution": "",
       "area": "Ph.D in University of Surrey",
-      "endDate": "2025.05-2025.11"
+      "endDate": "2025.05-2025.11",
+       "logo": "/images/logos/Surrey.png"
     },
     {
       "institution": "",
       "area": "Ph.D in Northeastern University",
       "studyType": "Control Science and Engineering",
-      "endDate": "2022.09-Present"  
+      "endDate": "2022.09-Present",
+      "logo": "/images/logos/NEU.png"
     },
     {
       "institution": "",
       "area": "M.S. in East China Jiaotong University",
       "studyType": "Mathematics",
-      "endDate": "2019.09-2022.07"
+      "endDate": "2019.09-2022.07",
+      "logo": "/images/logos/ECJTU.png"
     },
     {
       "institution": "",
       "area": "B.S. in Shanxi Normal University",
       "studyType": "Mathematics and Applied Mathematics",
-      "endDate": "2015.09-2019.07"
+      "endDate": "2015.09-2019.07",
+      "logo": "/images/logos/SX.png"
     }
   ],
   "skills": [
