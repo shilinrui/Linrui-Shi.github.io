@@ -74,6 +74,7 @@
       "authors": "Linrui Shi, Gaochang Wu, Yingqian Wang, Yebin Liu, Tianyou Chai"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/SwinEIF.png",
       "name": "SwinEIF: Explicit and implicit Swin Transformer fusion for infrared and visible images",
       "publisher": " Infrared Physics & Technology",
       "releaseDate": "2025",
@@ -81,6 +82,7 @@
       "authors": "Hongfu Zhang, Xing Wu, Qiuman Zeng, Linrui Shi, Gaochang Wu"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/Efficient.png",
       "name": "Efficient license plate recognition in unconstrained scenarios",
       "publisher": " Journal of Visual Communication and Image Representation",
       "releaseDate": "2023",
@@ -89,6 +91,7 @@
       "authors":"Chao Wei, Fei Han, Zizhu Fan, Linrui Shi, Cheng Peng"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/KFDTL.png",
       "name": "Kernel Fisher Dictionary Transfer Learning",
       "publisher": " ACM Transactions on Knowledge Discovery from Data",
       "releaseDate": "2023",
@@ -97,6 +100,7 @@
       "authors":"Linrui Shi, Zheng Zhang, Zizhu Fan, Chao Xi, Zhengming Li, Gaochang Wu"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/DFEDL.png",
       "name": "Discriminative Fisher Embedding Dictionary Transfer Learning for Object Recognition",
       "publisher": "  IEEE Transactions on Neural Networks and Learning Systems",
       "releaseDate": "2023",
@@ -105,6 +109,7 @@
       "authors":"Zizhu Fan, Linrui Shi, Qiang Liu, Zhengming Li, Zheng Zhang"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/RID.png",
       "name": "Pedestrian recognition based on space weakening and channel enhancing attention",
       "publisher": " Computer Engineering and Design",
       "releaseDate": "2023",
@@ -112,6 +117,7 @@
       "authors":"Jinwu Fu, Linrui Shi, Yijin Huang, Xinyue Guo, Fan Zizhu"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/Mul.png",
       "name": "Person Re-Identification Method based on Multi-scale and Multi-granularity Fusion",
       "publisher": "Computer Engineering",
       "releaseDate": "2022",
@@ -119,6 +125,7 @@
       "authors":"Jinwu Fu, Zizhu Fan, Linrui Shi, Xinyue Guo, Yijin Huang"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/Real.png",
       "name": "Real Time Power Equipment Meter Recognition Based on Deep Learning",
       "publisher": " IEEE Transactions on Instrumentation and Measurement",
       "releaseDate": "2022",
@@ -126,6 +133,7 @@
       "authors":"Zizhu Fan, Linrui Shi, Chao Xi, Hui Wang, Song Wang, Gaochang Wu"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/Face.png",
       "name": "Sparse Representation for Image Recognition Based on Semi Genetic Algorithm in Feature Space",
       "publisher": "Journal of Intelligent Science and Technology",
       "releaseDate": "2021",
@@ -133,6 +141,7 @@
       "authors":"Linrui Shi, Yijin Huang, Jinwu Fu, Xinyue Guo, Zizhu Fan"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/Head.png",
       "name": "A Head Detection Method Based on Multi-Scale Feature Fusion",
       "publisher": "Journal of East China Jiaotong University",
       "releaseDate": "2021",
@@ -140,6 +149,7 @@
       "authors":"Hong Zhang, Zizhu Fan, Linrui Shi, Jinwu Fu"
     },
     {
+      "image": "/Linrui-Shi.github.io/images/publications/W.png",
       "name": "W-Net Based Segmentation for Remote Sensing Satellite Image of High Resolution",
       "publisher": "Journal of South China University of Technology",
       "releaseDate": "2020",
