@@ -138,12 +138,12 @@
       {% for publication in cv.publications %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title" style="color: orange;">{{ publication.name }}</div>
+          <div class="cv-item-title" >{{ publication.name }}</div>
           <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
         </div>
 
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ publication.publisher }}</div>
+          <div class="cv-item-subtitle" style="color: #3A7CA5;">{{ publication.publisher }}</div>
 
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
