@@ -137,13 +137,22 @@
   <div class="cv-section">
     <h2>Publications</h2>
     <ul class="cv-list">
-      {% for publication in cv.publications %}
+      <!-- {% for publication in cv.publications %}
       <li class="cv-item">
         <div class="cv-item-header">
           <div class="cv-item-title" >{{ publication.name }}</div>
           <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
-        </div>
+        </div> -->
 
+        {% for publication in cv.publications %}
+          <li class="cv-item" style="list-style-type: disc;"> 
+            <div class="cv-item-header">
+              <div class="cv-item-title" >{{ publication.name }}</div>
+              <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
+            </div>
+            </li>
+        {% endfor %}
+      </ul>
         <div class="cv-item-content">
           <div class="cv-item-subtitle" style="color: #FF8800;">{{ publication.publisher }}</div>
 
