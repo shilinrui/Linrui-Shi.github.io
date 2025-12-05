@@ -96,6 +96,14 @@
   </div>
   {% endif %}
   
+  
+  {% if cv.languages %}
+  <!-- Languages -->
+  <div class="cv-section">
+    <h2>Languages</h2>
+    <p>{{ cv.languages }}</p>
+  </div>
+  {% endif %}
 
   {% if cv.skills.size > 0 %}
   <div class="cv-section">
