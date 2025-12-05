@@ -146,6 +146,21 @@
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
           {% endif %}
+
+          {% if publication.authors %}
+          <div class="cv-item-detail">
+            {% assign me = "Linrui Shi" %}
+            {% assign authors_list = publication.authors | split: ", " %}
+            {% for author in authors_list %}
+              {% if author == me %}
+                <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+              {% else %}
+                {{ author }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+          
           {% if publication.website %}
           <div class="cv-item-detail">
             <a href="{{ publication.website }}" target="_blank">View Publication</a>
@@ -157,6 +172,8 @@
     </ul>
   </div>
   {% endif %}
+
+
   
   {% if cv.presentations.size > 0 %}
   <!-- Presentations/Talks -->
