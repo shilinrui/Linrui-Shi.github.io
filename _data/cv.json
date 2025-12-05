@@ -66,7 +66,7 @@
   ],
   "publications": [
     {
-      "image": "/Linrui-Shi.github.io/images/publications/DuaDiff.png"
+      "image": "/Linrui-Shi.github.io/images/publications/DuaDiff.png",
       "name": "DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution",
       "publisher": " IEEE Transactions on Neural Networks and Learning Systems",
       "releaseDate": "2025",
