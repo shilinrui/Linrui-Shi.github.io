@@ -68,33 +68,35 @@
   </div>
   {% endif %}
   
-  {% if cv.education.size > 0 %}
-  <!-- Education -->
-  <div class="cv-section">
-    <h2>Education</h2>
-    <ul class="cv-list">
-      {% for education in cv.education %}
-      <li class="cv-item">
+{% if cv.education.size > 0 %}
+<div class="cv-section">
+  <h2>Education</h2>
+  <ul class="cv-list">
+    {% for education in cv.education %}
+    <li class="cv-item" style="display: flex; gap: 16px; align-items: flex-start;">
+      
+      {% if education.logo %}
+      <div class="cv-item-image" style="flex: 0 0 80px;">
+        <img src="{{ education.logo }}" alt="logo" style="width: 80px; border-radius: 6px;">
+      </div>
+      {% endif %}
+      
+      <div class="cv-item-right" style="flex: 1;">
         <div class="cv-item-header">
           <div class="cv-item-title">{{ education.area }}</div>
           <div class="cv-item-date">{{ education.endDate }}</div>
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ education.institution }}</div>
-          {% if education.gpa %}
-          <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
-          {% endif %}
-          {% if education.courses.size > 0 %}
-          <div class="cv-item-detail">
-            <strong>Courses:</strong> {{ education.courses | join: ", " }}
-          </div>
-          {% endif %}
         </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
+      </div>
+
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
   
 
   {% if cv.skills.size > 0 %}
