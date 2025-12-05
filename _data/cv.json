@@ -65,8 +65,8 @@
       "name": "DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution",
       "publisher": " IEEE Transactions on Neural Networks and Learning Systems",
       "releaseDate": "2025",
-      "website": "https://github.com/shilinrui/DuaDiff",
-      "codewebsite": "",
+      "website": "",
+      "codewebsite": "https://github.com/shilinrui/DuaDiff",
       "authors": "Linrui Shi, Gaochang Wu*, Yingqian Wang, Yebin Liu, Tianyou Chai"
     },
     {
