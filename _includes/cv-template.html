@@ -18,6 +18,15 @@
 <div class="cv-container">
   <!-- Basic Information -->
   <div class="cv-section cv-header">
+    <!-- 右侧：头像 -->
+    {% if cv.basics.image %}
+    <div style="flex: 0 0 150px;">
+      <img src="{{ cv.basics.image }}" 
+           alt="profile photo"
+           style="width: 150px; height: 150px; border-radius: 8px; object-fit: cover;">
+    </div>
+    {% endif %}
+    
     <h1>{{ cv.basics.name }}</h1>
     {% if cv.basics.label %}
     <h2>{{ cv.basics.label }}</h2>
