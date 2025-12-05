@@ -51,15 +51,7 @@
       "logo": "/Linrui-Shi.github.io/assets/images/logos/SX.png"
     }
   ],
-  "skills": [
-    "Senior High School Mathematics Teacher Qualification Certificate",
-    "Tour Guide Qualification Certificate"
-  ],
-  "languages": [
-    "Chinese", 
-    "English", 
-    "German"
-  ],
+ 
   "interests": [
     "Multimodal learning", 
     "Image super-resolution", 
@@ -157,6 +149,22 @@
       "website": "https://zrb.bjb.scut.edu.cn/EN/10.12141/j.issn.1000-565X.200365",
       "authors":"Zizhu Fan, Song Wang, Hong Zhang, Linrui Shi, Jinwu Fu, Zhengming Li"
     }  
+  ],
+   "awards": [
+     "National Encouragement Scholarship, 2021",
+    "Participated in the National English Competition for College Students and won the third prize",
+    "Participated in the 2021 Jiangxi Postgraduate Mathematical Modeling Contest and won the second prize",
+    "Participated in the 17th "Huawei Cup" China Postgraduate Mathematical Contest in Modeling and won the third prize",
+    "Participated in the 2020 Jiangxi Postgraduate Mathematical Modeling Contest and won the second prize"
+  ],
+  "skills": [
+    "Senior High School Mathematics Teacher Qualification Certificate",
+    "Tour Guide Qualification Certificate"
+  ],
+  "languages": [
+    "Chinese", 
+    "English", 
+    "German"
   ]
 
 }
