@@ -232,3 +232,10 @@ Publications
   </tr>
 </table>
 <br>
+## 🎖️ Awards & Honors
+
+- 🏅 **National Encouragement Scholarship**, 2021  
+- 🥉 Participated in the **National English Competition for College Students (NECCS)** and won the **Third Prize**  
+- 🥈 Participated in the **2021 Jiangxi Postgraduate Mathematical Modeling Contest** and won the **Second Prize**  
+- 🥉 Participated in the **17th "Huawei Cup" China Postgraduate Mathematical Contest in Modeling** and won the **Third Prize**  
+- 🥈 Participated in the **2020 Jiangxi Postgraduate Mathematical Modeling Contest** and won the **Second Prize**
