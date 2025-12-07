@@ -74,4 +74,161 @@ Publications
 </table>
 <br>
 
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/KFDTL.png" width="100%">
+    </td>
 
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Kernel Fisher Dictionary Transfer Learning</strong><br>
+      <em>ACM Transactions on Knowledge Discovery from Data, 2023</em><br>
+      <strong>Authors:</strong> **Linrui Shi**, Zheng Zhang, Zizhu Fan, Chao Xi, Zhengming Li, Gaochang Wu
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href=" https://dl.acm.org/doi/full/10.1145/3588575">PDF</a><br>
+      💻 <strong>Code:</strong> <a href="https://github.com/zzfan3/KFDTL">GitHub</a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/DFEDL.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Discriminative Fisher Embedding Dictionary Transfer Learning for Object Recognition</strong><br>
+      <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023</em><br>
+      <strong>Authors:</strong> Zizhu Fan, **Linrui Shi**, Qiang Liu, Zhengming Li, Zheng Zhang
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://ieeexplore.ieee.org/document/9465218">PDF</a><br>
+      💻 <strong>Code:</strong> <a href="https://github.com/shilinrui/DFEDTL">GitHub</a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/RID.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Pedestrian recognition based on space weakening and channel enhancing attention</strong><br>
+      <em>Computer Engineering and Design, 2023</em><br>
+      <strong>Authors:</strong> Jinwu Fu, **Linrui Shi**, Yijin Huang, Xinyue Guo, Fan Zizhu
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://dl.ccf.org.cn/article/articleDetail.html?type=qkwz&_ack=1&id=6532102806112256#:~:text=%E9%92%88%E5%AF%B9%E7%8E%B0%E6%9C%89%E8%A1%8C%E4%BA%BA%E9%87%8D%E8%AF%86%E5%88%AB%E6%96%B9%E6%B3%95%E8%BF%87%E4%BA%8E%E6%B3%A8%E9%87%8D%E5%AF%B9%E8%A1%8C%E4%BA%BA%E5%9B%BE%E5%83%8F%E5%BC%BA%E8%BE%A8%E5%88%AB%E6%80%A7%E7%89%B9%E5%BE%81%E7%9A%84%E6%8F%90%E5%8F%96%E5%AF%BC%E8%87%B4%E6%A8%A1%E5%9E%8B%E7%BC%BA%E4%B9%8F%E9%B2%81%E6%A3%92%E6%80%A7%2C%E4%BB%A5%E5%8F%8A%E6%97%A0%E6%B3%95%E5%BE%88%E5%A5%BD%E5%9C%B0%E7%BB%93%E5%90%88%E7%A9%BA%E9%97%B4%E5%92%8C%E9%80%9A%E9%81%93%E7%BB%B4%E5%BA%A6%E4%BF%A1%E6%81%AF%E7%9A%84%E9%97%AE%E9%A2%98%2C%E6%8F%90%E5%87%BA%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E5%BC%B1%E5%8C%96%E5%92%8C%E9%80%9A%E9%81%93%E5%A2%9E%E5%BC%BA%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9A%84%E8%A1%8C%E4%BA%BA%E9%87%8D%E8%AF%86%E5%88%AB%E6%96%B9%E6%B3%95%E3%80%82,%E9%80%9A%E8%BF%87%E5%BC%B1%E5%8C%96%E5%AF%B9%E4%BA%8E%E9%AB%98%E5%93%8D%E5%BA%94%E5%8C%BA%E5%9F%9F%E7%9A%84%E6%B3%A8%E6%84%8F%2C%E8%BF%AB%E4%BD%BF%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0%E6%9B%B4%E5%85%A8%E9%9D%A2%E7%9A%84%E7%89%B9%E5%BE%81%E4%BF%A1%E6%81%AF%2C%E6%8F%90%E5%8D%87%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E3%80%82%20%E5%B5%8C%E5%85%A5%E9%80%9A%E9%81%93%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%2C%E9%80%9A%E8%BF%87%E5%AD%A6%E4%B9%A0%E7%89%B9%E5%BE%81%E9%80%9A%E9%81%93%E4%B9%8B%E9%97%B4%E7%9A%84%E7%9B%B8%E5%85%B3%E6%80%A7%2C%E8%87%AA%E5%8A%A8%E6%A0%A1%E5%87%86%E9%80%9A%E9%81%93%E7%BB%B4%E5%BA%A6%E4%B8%8A%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%E3%80%82">PDF</a><br>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/Mul.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Person Re-Identification Method based on Multi-scale and Multi-granularity Fusion</strong><br>
+      <em>Computer Engineering, 2022</em><br>
+      <strong>Authors:</strong> Jinwu Fu, Zizhu Fan, **Linrui Shi**, Xinyue Guo, Yijin Huang
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0060189">PDF</a><br>
+      
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/Real.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Real Time Power Equipment Meter Recognition Based on Deep Learning</strong><br>
+      <em>IEEE Transactions on Instrumentation and Measurement (TIM), 2022</em><br>
+      <strong>Authors:</strong> Zizhu Fan, **Linrui Shi**, Chao Xi, Hui Wang, Song Wang, Gaochang Wu
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://ieeexplore.ieee.org/document/9839682">PDF</a><br>
+      💻 <strong>Code:</strong> <a href="https://github.com/shilinrui/DuaDif">GitHub</a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/Face.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Sparse Representation for Image Recognition Based on Semi Genetic Algorithm in Feature Space</strong><br>
+      <em>Journal of Intelligent Science and Technology, 2021</em><br>
+      <strong>Authors:</strong> **Linrui Shi**, Yijin Huang, Jinwu Fu, Xinyue Guo, Zizhu Fan
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://doaj.org/article/0770c94aefc94daebfa1eff1a6ffdb80#:~:text=The%20typical%20sparse%20representation%20for%20classification%20%28SRC%29%20is,the%20proposed%20approach%20can%20achieve%20better%20classification%20performance">PDF</a><br>
+      
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/Head.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>A Head Detection Method Based on Multi-Scale Feature Fusion</strong><br>
+      <em>Journal of East China Jiaotong University, 2021</em><br>
+      <strong>Authors:</strong> Hong Zhang, Zizhu Fan, **Linrui Shi**, Jinwu Fu
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://journal.ecjtu.edu.cn/hdjtdxen/article/abstract/20210217?st=article_issue">PDF</a><br>
+
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/W.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>W-Net Based Segmentation for Remote Sensing Satellite Image of High Resolution</strong><br>
+      <em>Journal of South China University of Technology, 2020</em><br>
+      <strong>Authors:</strong> Zizhu Fan, Song Wang, Hong Zhang,** Linrui Shi**, Jinwu Fu, Zhengming Li
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://zrb.bjb.scut.edu.cn/EN/10.12141/j.issn.1000-565X.200365">PDF</a><br>
+      
+    </td>
+  </tr>
+</table>
+<br>
