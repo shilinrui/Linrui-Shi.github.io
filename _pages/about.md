@@ -24,11 +24,31 @@ Publications
     <!-- 右侧文字简介 -->
     <td width="65%" style="vertical-align: top;">
       <strong>DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution</strong><br>
-      <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025, Accepted</em><br>
-      <strong>Authors:</strong> Linrui Shi, Gaochang Wu*, <a href="https://pages.github.com">Yingqian Wang</a>, Yebin Liu, Tianyou Chai
+      <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025</em><br>
+      <strong>Authors:</strong> **Linrui Shi**, Gaochang Wu, Yingqian Wang, Yebin Liu, Tianyou Chai
       <br><br>
-      🔗 <strong>Paper:</strong> <a href=" ">PDF / IEEE</a><br>
-      💻 <strong>Code:</strong> <a href="[你的代码仓库链接](https://github.com/shilinrui/DuaDif)">GitHub</a>
+      🔗 <strong>Paper:</strong> <a href=" ">PDF</a><br>
+      💻 <strong>Code:</strong> <a href="https://github.com/shilinrui/DuaDif">GitHub</a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/SwinEIF.png" width="100%">
+    </td>
+
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>SwinEIF: Explicit and implicit Swin Transformer fusion for infrared and visible images</strong><br>
+      <em>Infrared Physics & Technology, 2025</em><br>
+      <strong>Authors:</strong> Hongfu Zhang, Xing Wu, Qiuman Zeng, **Linrui Shi**, Gaochang Wu
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S1350449525004499 ">PDF</a><br>
+      
     </td>
   </tr>
 </table>
