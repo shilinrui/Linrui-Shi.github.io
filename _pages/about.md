@@ -54,59 +54,24 @@ Publications
 </table>
 <br>
 
+<table>
+  <tr>
+    <!-- 左侧论文图片 -->
+    <td width="35%">
+      <img src="/Linrui-Shi.github.io/images/publications/Efficient.png" width="100%">
+    </td>
 
-DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution
+    <!-- 右侧文字简介 -->
+    <td width="65%" style="vertical-align: top;">
+      <strong>Efficient license plate recognition in unconstrained scenarios</strong><br>
+      <em>Journal of Visual Communication and Image Representation, 2023</em><br>
+      <strong>Authors:</strong> Chao Wei, Fei Han, Zizhu Fan, **Linrui Shi**, Cheng Peng
+      <br><br>
+      🔗 <strong>Paper:</strong> <a href="https://pdf.sciencedirectassets.com/272324/1-s2.0-S1047320324X00073/1-s2.0-S1047320324002700/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdjd4x0xNsUr%2FrJ%2BxI%2FFOKOI97sRFESpEq3TzanwxJhgIgbRP1pdX7QpEac71HyfCg%2BPKbv1m7mzcPyb25%2BcU8DdYqswUIWhAFGgwwNTkwMDM1NDY4NjUiDFA0ACSWT5GcBIAUsyqQBbdJJwW%2BknPV5ZWNtZfVm5b%2F1yZPeqGvu0AFNt0zcaFxigi8zTR5BNtz91ptzSQS6WbRVwUT5xfrXQGRkg0ycaODJMF8v4iAX3XyjwJt1xDNbXG2M8gCsAO0FLICo4eAl04WgR9NeSbTHiA6miw9MLgnCEngBpMwlHhDD%2FJj6mKCJjuxJwPp%2BoL6gPKum2Ev%2FSho9Lz18PvXz%2FMqUQgJrgpbWnulSpab2QPv2i6qniGcGE8t2QjdKL9E7bsdk8br5WT6uZndDSrSOR6exvPgDoXWioglYGh%2F6EKIKc%2FOCN2lQqa2tEmZ8An0%2B2sF%2FPYp531M%2B3Z3wy0wkeAF8z7FJIcIDgUjkQQLdyWrwG2d7oDVqwSGYTc8BUwWTkOVBa6AB8Wi1CN1Xa58cZlyoqZ1AUqnQvV7OiWGHMphxFnY3GciPIE8TYRYoC6QWaqeA85ue9%2F1FBN7mcBkChBC9S7XGMvrHN0XFYFgLkU42tAC87nNIjQEWUFZ%2FkmXoGdQC63fkBio%2F8D2DG%2BguGM2zJcPWoOx6kcIRGFNFpLMaQxk7eVY7U5dzDRzNX%2BQs%2B201ct7P6i5J2G68%2Fu3gXPHETaFebK3uVjbjvG16CPJ342fhIk9rGYGwujMc63ZAm1Dwj92KbjsJg8nX8swSn0MqxMJT47DuLz23VGjnhyERduYFo7JJ07GQ5NMZjxAoCED0LKIuNARCesQvOaW%2FqnnAIZX%2BXic78hX6Uk7EBmJ411dEkXh8qpBsy41atiWZrHJYrH3R90jVKl%2BwJz1j74rN1f7PnP4M8r2oYIMHag9j6j9qSKoJ4K%2FI8J2E9WlQlOo%2F9ZMJEPIAqYIz0eGXYR7vKS0JXRxjApPm6SZewTXw6a84qucMM%2ByyskGOrEBTBHEb44%2BbWE85gWJ3zQoMirdviHV7wA%2BgixmE8b3T0TT4oiJcNcWmj39Mlt2PD9KsPEABqbpdqq0TX6sdXr55iNi%2BVVC1dKsgcDRgiJqEKOXMFxY4RHRrnq67tw0stcvEHjcLlm%2B7QF7l6wOcYriVW8kQOoy4G7eTAptRm1kEoH%2Ben8MrZcLH9kyO5TbluCXnmQLdvpkjoFH17%2FAuUmaG1IGalzaRp%2FJQp5AeELJ%2FTgF&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251205T095402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYM5RZCOV%2F20251205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f115933b0cbae4c8fae835189c76d16cd6457331f03f7d5b3f3360ea39851527&hash=3cdf2a2182c637a18b488e91608026a3b99700e027fdf9ed94fdec9863b75a97&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1047320324002700&tid=spdf-2ab5bd3f-0393-4b71-aede-f3e36baec714&sid=1f2e468129f63342419b70e954ea9713348cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1908590359500e580a0155&rr=9a92a8ed0aa79fe0&cc=cn">PDF</a><br>
+      💻 <strong>Code:</strong> <a href="https://github.com/wechao18/Efficient-alpr-unconstrained">GitHub</a>
+    </td>
+  </tr>
+</table>
+<br>
 
-IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2025, Accepted
 
-Linrui Shi, Gaochang Wu*, [Yingqian Wang](https://pages.github.com), Yebin Liu, Tianyou Chai
-
-W-Net Based Segmentation for Remote Sensing Satellite Image of High Resolution
-
-Journal of South China University of Technology, 2020, 48(12): 114-124
-
-Zizhu Fan, Song Wang, Hong Zhang, **Linrui Shi**, Jinwu Fu, Zhengming Li
-
-[Paper](https://zrb.bjb.scut.edu.cn/EN/Y2020/V48/I12/114)
-
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
