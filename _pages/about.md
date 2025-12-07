@@ -224,7 +224,7 @@ Publications
     <td width="65%" style="vertical-align: top;">
       <strong>W-Net Based Segmentation for Remote Sensing Satellite Image of High Resolution</strong><br>
       <em>Journal of South China University of Technology, 2020</em><br>
-      <strong>Authors:</strong> Zizhu Fan, Song Wang, Hong Zhang,** Linrui Shi**, Jinwu Fu, Zhengming Li
+      <strong>Authors:</strong> Zizhu Fan, Song Wang, Hong Zhang, <strong>Linrui Shi</strong>, Jinwu Fu, Zhengming Li
       <br><br>
       🔗 <strong>Paper:</strong> <a href="https://zrb.bjb.scut.edu.cn/EN/10.12141/j.issn.1000-565X.200365">PDF</a><br>
       
