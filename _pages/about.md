@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD in Control Science and Engineering in the [State Key Laboratory of Synthetical Automation for Process Industries (SAPI)](http://www.sapi.neu.edu.cn/), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
+I am currently a PhD in the [State Key Laboratory of Synthetical Automation for Process Industries (SAPI)](http://www.sapi.neu.edu.cn/), Northeastern University, China. I received the BE degree in Mathematics and Applied Mathematics from Shanxi Normal University, Linfen, China, in 2019, and received the MS degree in mathematics from East China Jiaotong University, Nanchang, China, in 2022. My current research interests include multimodal learning, image super-resolution, and diffusion models.
 
 目前在中国东北大学流程工业综合自动化全国重点实验室攻读博士学位。于2019年获得山西师范大学，数学与应用数学学士学位，于2022年获得华东交通大学，数学硕士学位。目前的研究方向包括多模态学习、图像超分辨率和扩散模型。
 
@@ -27,7 +27,7 @@ Publications
       <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025</em><br>
       <strong>Authors:</strong> <strong>Linrui Shi</strong>, Gaochang Wu, Yingqian Wang, Yebin Liu, Tianyou Chai
       <br><br>
-      🔗 <strong>Paper:</strong> <a href=" ">PDF</a><br>
+      <!--🔗 <strong>Paper:</strong> <a href=" ">PDF</a><br>-->
       💻 <strong>Code:</strong> <a href="https://github.com/shilinrui/DuaDif">GitHub</a>
     </td>
   </tr>
