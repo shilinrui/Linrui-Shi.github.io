@@ -27,7 +27,7 @@ Publications
       <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025</em><br>
       <strong>Authors:</strong> <strong>Linrui Shi</strong>, Gaochang Wu, Yingqian Wang, Yebin Liu, Tianyou Chai
       <br><br>
-      <!--🔗 <strong>Paper:</strong> <a href=" ">PDF</a><br>-->
+      🔗 <strong>Paper:</strong> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11297759">PDF</a><br>
       💻 <strong>Code:</strong> <a href="https://github.com/shilinrui/DuaDif">GitHub</a>
     </td>
   </tr>
